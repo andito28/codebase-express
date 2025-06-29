@@ -22,7 +22,7 @@ codebase-express/
 
 ---
 
-## 🧪 run Project
+## 🧪 Run Project
 
 ### 1. Clone & Install
 ```bash
@@ -41,10 +41,10 @@ DB_PASS=your_password
 DB_HOST=localhost
 ```
 
-### 3. Jalankan
+### 3. Running
 ```bash
-npm run dev     # Untuk development dengan nodemon
-npm start       # Untuk production
+npm run dev     # For development with nodemon
+npm start       # For Production
 ```
 
 ### 4. Tes API di VS Code
