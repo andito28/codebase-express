@@ -1,0 +1,12 @@
+{
+  "rest-client.environmentVariables": {
+    "local": {
+      "baseUrl": "http://localhost:5000"
+    }
+  },
+  "rest-client.environmentName": "local",
+  "rest-client.requestNameAsResponseTabTitle": true,
+  "rest-client.enableTelemetry": true,
+  "rest-client.showResponseInDifferentTab": false
+
+}

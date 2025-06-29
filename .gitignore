@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Environment
+.env
+
+# Storage files
+storage/public/*
+storage/private/*
+!storage/public/.gitkeep
+!storage/private/.gitkeep
+
+# Logs
+npm-debug.log
+yarn-debug.log
+
+# OS / Editor
+.DS_Store
+.idea/
+
+# Build / dist
+dist/
+build/

@@ -1,0 +1,3 @@
+### Get All Users
+GET {{baseUrl}}/api/users
+Content-Type: application/json
